@@ -6,6 +6,11 @@ My name is Marissa, and I'm an Harvard trained computer scientist interested in 
 - 🌱 I’m currently learning more skills in data science and ML. 
 - 👯 I’m looking to collaborate on discussions of latest ML papers!
 
+Past Hackathons [Under Construction]
+
+https://app.agihouse.org/events/google-20250118 
+
+
 <!--
 **marissali314/marissali314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
